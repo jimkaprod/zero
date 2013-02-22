@@ -1,10 +1,3 @@
 texte branche 2 33333
 
 la suite de mon texte
-
-<<<<<<< Updated upstream
-master
-=======
-
-nouvelle modification
->>>>>>> Stashed changes
